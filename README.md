@@ -4,9 +4,13 @@ This is a React-based Package Tracking Application that provides users with real
 
 🚀 Features
 Parcel Information: View sender details, parcel ID, location, and status.
+
 Dynamic Map Integration: Displays the parcel location using Leaflet and OpenStreetMap.
+
 Multi-Language Support: Switch between languages for a localized experience.
+
 Responsive Design: Optimized for desktop, tablet, and mobile devices.
+
 Status Indicators: Dynamic icons that change based on parcel status (e.g., ready for pickup, on the way, delivered).
 
 🛠️ Technologies Used
