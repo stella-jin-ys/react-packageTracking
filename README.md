@@ -30,19 +30,14 @@ API Integration: Fetches parcel details via REST API
 🖥️ Getting Started
 Clone the repository:
 
-bash
-Kopiera kod
 git clone https://github.com/your-username/package-tracking-app.git
 cd package-tracking-app
+
 Install dependencies:
-
-bash
-Kopiera kod
 npm install
-Start the development server:
 
-bash
-Kopiera kod
+Start the development server:
 npm start
+
 Open your browser and go to http://localhost:3000.
 
