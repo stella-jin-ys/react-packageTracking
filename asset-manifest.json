@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-packageTracking/static/css/main.9036c31e.css",
-    "main.js": "/react-packageTracking/static/js/main.cd097b29.js",
-    "static/media/ontheway.svg": "/react-packageTracking/static/media/ontheway.8a4c34b8abd5a00913e885602d0eb432.svg",
-    "static/media/delivered.svg": "/react-packageTracking/static/media/delivered.8e2d00d7e9671a8809462ace67d0bab4.svg",
-    "static/media/eng.svg": "/react-packageTracking/static/media/eng.efbc0ef55bf0631cd037d898169cb925.svg",
-    "static/media/received.svg": "/react-packageTracking/static/media/received.0665eff38f994cd0a1473472cf9a9b6b.svg",
-    "index.html": "/react-packageTracking/index.html",
-    "static/media/ready.svg": "/react-packageTracking/static/media/ready.225d531beb876727c782d8ffab9c05af.svg",
-    "main.9036c31e.css.map": "/react-packageTracking/static/css/main.9036c31e.css.map",
-    "main.cd097b29.js.map": "/react-packageTracking/static/js/main.cd097b29.js.map"
+    "main.css": "/package-tracking/static/css/main.9036c31e.css",
+    "main.js": "/package-tracking/static/js/main.44de7ea3.js",
+    "static/media/ontheway.svg": "/package-tracking/static/media/ontheway.8a4c34b8abd5a00913e885602d0eb432.svg",
+    "static/media/delivered.svg": "/package-tracking/static/media/delivered.8e2d00d7e9671a8809462ace67d0bab4.svg",
+    "static/media/eng.svg": "/package-tracking/static/media/eng.efbc0ef55bf0631cd037d898169cb925.svg",
+    "static/media/received.svg": "/package-tracking/static/media/received.0665eff38f994cd0a1473472cf9a9b6b.svg",
+    "index.html": "/package-tracking/index.html",
+    "static/media/ready.svg": "/package-tracking/static/media/ready.225d531beb876727c782d8ffab9c05af.svg",
+    "main.9036c31e.css.map": "/package-tracking/static/css/main.9036c31e.css.map",
+    "main.44de7ea3.js.map": "/package-tracking/static/js/main.44de7ea3.js.map"
   },
   "entrypoints": [
     "static/css/main.9036c31e.css",
-    "static/js/main.cd097b29.js"
+    "static/js/main.44de7ea3.js"
   ]
 }
