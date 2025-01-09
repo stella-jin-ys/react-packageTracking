@@ -5,7 +5,7 @@ import PackageInfo from "./PackageInfo";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/react-packageTracking">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/order/:id" element={<PackageInfo />} />
